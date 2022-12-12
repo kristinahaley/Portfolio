@@ -1,12 +1,18 @@
+![screenshot of my deployed webpage](assests/images/screenshot-portfolio.png)
+
 Kristina Senters' Portfolio
 
-
-This portfolio webpage is designed to:
-    Let furter employers see who I am
+This webpage is designed to:
+    Have employers see who I am
     Read a little about me
-    See work I have done
+    View my work
     Have my contact information
 
-In the future I hope to add more completed projects, make the about me section more refined, and adjust the layout a little better.
+In the future I would like to:
+    Add more of my work
+    Make the layout flow more
+    Refine the about me section
 
-![alt text](assets/screenshot-portfolio.png)
+Link to my deployed webpage: https://kristinahaley.github.io/Portfolio/
+
+Link to my GitHub repository: https://github.com/kristinahaley/Portfolio
